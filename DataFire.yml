@@ -1,0 +1,4 @@
+options:
+  cors: true
+actions:
+  home: ./actions/home.js
